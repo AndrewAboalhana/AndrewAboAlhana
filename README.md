@@ -13,7 +13,7 @@
 
 I'm an experienced Android developer with a deep passion for crafting high-quality mobile applications. My expertise lies in Kotlin, Jetpack Compose, and clean architecture. I am constantly learning and staying up-to-date with the latest technologies to improve my skills.
 
-- 🌱 I’m currently mastering **Jetpack Compose** and exploring **Kotlin Multiplatform (KMP)**.
+- 🌱 I’m currently mastering **Jetpack Compose** and **Kotlin Multiplatform (KMP)**.
 - 🛠️ I specialize in **Android app development** using modern tools and frameworks.
 - 💬 Ask me about anything Android-related, I'd love to help!
 
